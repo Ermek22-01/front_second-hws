@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+.block {
+    position: relative;
+    margin: 50px auto;
+    width: 0;
+    height: 0;
+    border-left: 400px solid transparent;
+    border-right: 400px solid transparent;
+    border-bottom: 400px solid #f95959;
+    }
+
+.inner__block {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border: 50px solid transparent; border-bottom: 50px solid green;
+    padding-top: 50px;
+}
+.timer {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
